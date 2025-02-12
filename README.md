@@ -21,21 +21,16 @@
 </div>
 <div align="center">
   <h1>
-  Hi there
+  Hi there! My name is Mowaninuola Umarudeen
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 </div>
-<div align="center">
-  <img src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif?cid=ecf05e47y7hb8wfg3xvf318on613eac849ln98uh1byn2aye&ep=v1_gifs_related&rid=giphy.gif&ct=g"/>
-</div>
 
----
-
-### :woman_technologist: About Me :
-I am a Data Analyst and Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria.
+### :woman_technologist: Here are some ideas to get you started about me :
+I am a Data Analyst/Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria.
 - 📈: I'm currently working as a Data Analyst, and I'm also developing my skills in Data Science, contributing to projects that involve both data analysis, visualization and the exploration of machine learning techniques.
 
-- :seedling: Exploring everything Data.
+- :seedling: I’m looking to collaborate on everything data analysis projects, Let's talk data.
 
 - :zap: In my free time, I solve python problems, take data courses, and read tech articles.
 
@@ -46,7 +41,7 @@ I am a Data Analyst and Scientist <img src="https://media.giphy.com/media/WUlplc
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Languages and Tools I Know and Use:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="Anaconda" alt="Anaconda" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg" title="JetBrains" alt="JetBrains" width="40" height="40"/>&nbsp;
@@ -67,15 +62,14 @@ I am a Data Analyst and Scientist <img src="https://media.giphy.com/media/WUlplc
 ---
 
 ### :fire: My GitHub Streak Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DataWithMowa&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DataWithMowa&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DataWithMowa)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=DataWithMowa" alt="GitHub Streak" /></a>
+https://github-readme-streak-stats.herokuapp.com?user=DataWithMowa&theme=dark&background=000000
 
 
-
-
-
-
-
-
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DataWithMowa&theme=dark&background=000000)
+<img src="https://github-readme-streak-stats.herokuapp.com?user=DataWithMowa&theme=dark&background=000000" alt="GitHub Streak" />
 
 
 
