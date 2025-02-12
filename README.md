@@ -63,13 +63,6 @@ I am a Data Analyst/Scientist <img src="https://media.giphy.com/media/WUlplcMpOC
 
 ### :fire: My GitHub Streak Stats :
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DataWithMowa&theme=dark&background=000000)](https://git.io/streak-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DataWithMowa)](https://git.io/streak-stats)
-<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=DataWithMowa" alt="GitHub Streak" /></a>
-https://github-readme-streak-stats.herokuapp.com?user=DataWithMowa&theme=dark&background=000000
-
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DataWithMowa&theme=dark&background=000000)
-<img src="https://github-readme-streak-stats.herokuapp.com?user=DataWithMowa&theme=dark&background=000000" alt="GitHub Streak" />
 
 
 
