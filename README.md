@@ -66,4 +66,46 @@ I am a Data Analyst/Scientist <img src="https://media.giphy.com/media/WUlplcMpOC
 
 
 
+<div id="header" align="center">
+  <img src="https://media0.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="100"/>
+</div>
+
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/mowaninuolaumarudeen/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://x.com/themowakampe">
+    <img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=x&logoColor=white" alt="X Badge"/>
+  </a>
+  <a href="https://www.instagram.com/themowakampe">
+    <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
+  <a href="https://www.facebook.com/mowaintech">
+    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
+  </a>
+</div>
+
+<div align="center">
+  <h1>👋 Hi there! I'm Mowaninuola Umarudeen <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
+</div>
+
+## 🚀 About Me  
+- **📊 Data Analyst | 🌱 Aspiring Data Scientist | ⚡ Python Enthusiast**  
+- **🎯 Currently Working As:** A Data Analyst, developing skills in Data Science and contributing to projects involving analysis, visualization, and machine learning.  
+- **🤝 Looking to Collaborate On:** Anything related to data analysis! Let’s talk data.  
+- **⚡ What I Do In My Free Time:** Solve Python problems, take data courses, and read tech articles.  
+
+## 🔧 Languages & Tools I Use  
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="Anaconda" alt="Anaconda" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" title="Markdown" alt="Markdown" width="40" height="40"/>
+</div>
+
+## 📬 Get In Touch  
+- **💼 LinkedIn:** [Mowaninuola Umarudeen](https://www.linkedin.com/in/mowaninuolaumarudeen/)  
+- **📧 Email:** [mowaninuolau@gmail.com](mailto:mowaninuolau@gmail.com)  
+
+
+
 
