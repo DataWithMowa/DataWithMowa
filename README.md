@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjMxbW5iODFzcWs4NHluaHBnNjlrd3VhMjJwc2p4NWs5MXF6d2QxNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="100"/>
+  <img src="https://media0.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="100"/>
 </div>
 
 <div id="badges" align="center">
@@ -9,39 +9,25 @@
   <a href="https://x.com/themowakampe">
     <img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=x&logoColor=white" alt="X Badge"/>
   </a>
-   <a href="https://www.instagram.com/themowakampe?igsh=MXIwa3ZvbW9pOXV0Ng">
+  <a href="https://www.instagram.com/themowakampe">
     <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
-  <a href="https://www.facebook.com/mowaintech">
-     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
+   <a href="https://www.facebook.com/mowaintech" style="color: #1877F2; font-weight: bold;">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
 </div>
+
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=DataWithMowa&style=flat-square&color=blue" alt=""/>
-</div>
-<div align="center">
-  <h1>
-  Hi there! My name is Mowaninuola Umarudeen
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+  <h1>👋 Hi there! I'm Mowaninuola Umarudeen <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
 </div>
 
-### :woman_technologist: Here are some ideas to get you started about me :
-I am a Data Analyst/Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria.
-- 📈: I'm currently working as a Data Analyst, and I'm also developing my skills in Data Science, contributing to projects that involve both data analysis, visualization and the exploration of machine learning techniques.
+## 🚀 About Me  
+- **📊 Data Analyst | 🧠 Data Scientist | ⚡ Python Enthusiast**  
+- **🎯 Currently Working As:** A Data Analyst, developing skills in Data Science and contributing to projects involving analysis, visualization, and machine learning.  
+- **🤝 Looking to Collaborate On:** Anything related to data analysis! Let’s talk data.  
+- **⚡ What I Do In My Free Time:** Solve Python problems, take data courses, and read tech articles.  
 
-- :seedling: I’m looking to collaborate on everything data analysis projects, Let's talk data.
-
-- :zap: In my free time, I solve python problems, take data courses, and read tech articles.
-
-- 🤝:Reach me on Linkedin: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mowaninuolaumarudeen/)
-- 📬:Send a mail to: <a href="mailto:mowaninuolau@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-</a>
-
----
-
-### :hammer_and_wrench: Languages and Tools I Know and Use:
+## 🔧 Languages & Tools I Use  
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="Anaconda" alt="Anaconda" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg" title="JetBrains" alt="JetBrains" width="40" height="40"/>&nbsp;
@@ -59,52 +45,14 @@ I am a Data Analyst/Scientist <img src="https://media.giphy.com/media/WUlplcMpOC
   <img src="https://img.icons8.com/?size=100&id=Ny0t2MYrJ70p&format=png&color=000000" title="Power BI" **alt="Power BI" width="40" height="40"/>
 </div>
 
+## 📬 Get In Touch  
+- **💼 LinkedIn:** [Mowaninuola Umarudeen](https://www.linkedin.com/in/mowaninuolaumarudeen/)  
+- **📧 Email:** [mowaninuolau@gmail.com](mailto:mowaninuolau@gmail.com)
+
 ---
 
 ### :fire: My GitHub Streak Stats :
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DataWithMowa&theme=dark&background=000000)](https://git.io/streak-stats)
-
-
-
-<div id="header" align="center">
-  <img src="https://media0.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="100"/>
-</div>
-
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/mowaninuolaumarudeen/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://x.com/themowakampe">
-    <img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=x&logoColor=white" alt="X Badge"/>
-  </a>
-  <a href="https://www.instagram.com/themowakampe">
-    <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-  </a>
-  <a href="https://www.facebook.com/mowaintech">
-    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
-  </a>
-</div>
-
-<div align="center">
-  <h1>👋 Hi there! I'm Mowaninuola Umarudeen <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
-</div>
-
-## 🚀 About Me  
-- **📊 Data Analyst | 🌱 Aspiring Data Scientist | ⚡ Python Enthusiast**  
-- **🎯 Currently Working As:** A Data Analyst, developing skills in Data Science and contributing to projects involving analysis, visualization, and machine learning.  
-- **🤝 Looking to Collaborate On:** Anything related to data analysis! Let’s talk data.  
-- **⚡ What I Do In My Free Time:** Solve Python problems, take data courses, and read tech articles.  
-
-## 🔧 Languages & Tools I Use  
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="Anaconda" alt="Anaconda" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" title="Markdown" alt="Markdown" width="40" height="40"/>
-</div>
-
-## 📬 Get In Touch  
-- **💼 LinkedIn:** [Mowaninuola Umarudeen](https://www.linkedin.com/in/mowaninuolaumarudeen/)  
-- **📧 Email:** [mowaninuolau@gmail.com](mailto:mowaninuolau@gmail.com)  
 
 
 
