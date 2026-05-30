@@ -22,10 +22,10 @@
 </div>
 
 ## 🚀 About Me  
-- **📊 Data Analyst | 🧠 Data Scientist | ⚡ Python Enthusiast**  
-- **🎯 Currently Working As:** A Data Analyst, developing skills in Data Science and contributing to projects involving analysis, visualization, and machine learning.  
+- **📊 Data Analyst | Customer Support Specialist | Specializing in Customer Experience (CX), Marketing and E-commerce Analytics**  
+- **🎯 Currently Working As:** A Data Analyst, developing skills in both advanced Customer Support Methodologies and Data Analytics (focusing on Sales, Marketing, and Customer Insights)
 - **🤝 Looking to Collaborate On:** Anything related to data analysis! Let’s talk data.  
-- **⚡ What I Do In My Free Time:** Solve Python problems, take data courses, and read tech articles.  
+- **⚡ What I Do In My Free Time:** Take data, marketing, and customer suppport courses, and read tech articles.  
 
 ## 🔧 Languages & Tools I Use  
 <div>
