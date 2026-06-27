@@ -6,28 +6,18 @@
   <a href="https://www.linkedin.com/in/mowaninuolaumarudeen/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://x.com/themowakampe">
-    <img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=x&logoColor=white" alt="X Badge"/>
-  </a>
-  <a href="https://www.instagram.com/themowakampe">
-    <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-  </a>
-   <a href="https://www.facebook.com/mowaintech" style="color: #1877F2; font-weight: bold;">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
-  </a>
 </div>
 
 <div align="center">
   <h1>👋 Hi there! I'm Mowaninuola Umarudeen <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
 </div>
 
-## 🚀 About Me  
-- **📊 Data Analyst | Customer Support Specialist | Specializing in Customer Experience (CX), Marketing and E-commerce Analytics**  
-- **🎯 Currently Working As:** A Data Analyst, developing skills in both advanced Customer Support Methodologies and Data Analytics (focusing on Sales, Marketing, and Customer Insights)
+## About Me  
+- **📊 Data Analyst | Helping businesses and organizations make data-driven decisions | Specializing in Marketing & Business Analytics** 
 - **🤝 Looking to Collaborate On:** Anything related to data analysis! Let’s talk data.  
-- **⚡ What I Do In My Free Time:** Take data, marketing, and customer suppport courses, and read tech articles.  
+- **⚡ What I Do In My Free Time:** Take data, marketing courses, and read tech articles.  
 
-## 🔧 Languages & Tools I Use  
+## Languages & Tools I Use  
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="Anaconda" alt="Anaconda" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg" title="JetBrains" alt="JetBrains" width="40" height="40"/>&nbsp;
@@ -45,7 +35,7 @@
   <img src="https://img.icons8.com/?size=100&id=Ny0t2MYrJ70p&format=png&color=000000" title="Power BI" **alt="Power BI" width="40" height="40"/>
 </div>
 
-## 📬 Get In Touch  
+## Get In Touch  
 - **💼 LinkedIn:** [Mowaninuola Umarudeen](https://www.linkedin.com/in/mowaninuolaumarudeen/)  
 - **📧 Email:** [mowaninuolau@gmail.com](mailto:mowaninuolau@gmail.com)
 
