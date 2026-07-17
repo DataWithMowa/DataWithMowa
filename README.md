@@ -13,7 +13,7 @@
 </div>
 
 ## About Me  
-- **📊 Data Analyst | Helping businesses and organizations make data-driven decisions | Specializing in Marketing & Business Analytics** 
+- **📊 Data Analyst since 2024 | Navigating the Data Journey with Resilience & Tenacity | Actively Seeking Entry-Level & Internship Opportunities.** 
 - **🤝 Looking to Collaborate On:** Anything related to data analysis! Let’s talk data.  
 - **⚡ What I Do In My Free Time:** Take data, marketing courses, and read tech articles.  
 
