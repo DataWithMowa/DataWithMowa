@@ -13,9 +13,9 @@
 </div>
 
 ## About Me  
-- **📊 Data Analyst since 2024 | Navigating the Data Journey with Resilience & Tenacity | Actively Seeking Entry-Level & Internship Opportunities.** 
+- **📊 Data Analyst since 2024 | Building. Analyzing. Growing | One Project at a time.** 
 - **🤝 Looking to Collaborate On:** Anything related to data analysis! Let’s talk data.  
-- **⚡ What I Do In My Free Time:** Take data, marketing courses, and read tech articles.  
+- **⚡ What I Do In My Free Time:** I take data courses, I upskill and I sleep.  
 
 ## Languages & Tools I Use  
 <div>
